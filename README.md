@@ -11,6 +11,8 @@ US-NTSC Check Below
 - In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder
 
 - Then enable texture replacement by heading to `settings>tools>developer tools>replace textures`
+
+- For US-NTSC users change the folder name from `ULES00850` to `ULUS10297`
   
 Screenshots
 ======  
@@ -56,15 +58,11 @@ You must use the lastest stable PPSSPP build
 - Most sword skills have been given an HDR makeover.
 - At this point too much to list or even remember.
 
-# Changing from Euro to US (Experimental)
-
-Changed the folders name from `ULES00850` to `ULUS10297`
-
 # Know Issues
 
 -Win condition overlay sometimes does not display new texture
 
--Texture pack for ULUS10297- US region not tested (won't be surprised if theres bugs)
+-Texture pack for ULUS10297- US region semi tested
 
 # Up Coming
 - [ ] Further cleaning
