@@ -17,11 +17,11 @@ USA-NTSC users please read installation!
 - Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
 
 # Automatic Installation (Europe Version Only)
--Open the zip file within PPSSPP as if it were a game.
+- Open the zip file within PPSSPP as if it were a game.
 
--It will automatically place all the files in the correct location for you.
+- It will automatically place all the files in the correct location for you.
 
--Enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
+- Enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
 
 Screenshots
 ======  
