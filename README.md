@@ -43,6 +43,11 @@ Comparison
 ======  
 ![compare](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/2f887cee-9103-40d9-a81d-6f812f74c718)
 
+# Requirements
+You must use the lastest stable PPSSPP build
+
+`settings>graphics>render resolution` must be set at 4x or above
+
 # Version List
 
 ### `v1.0`
