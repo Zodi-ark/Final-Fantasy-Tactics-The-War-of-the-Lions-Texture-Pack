@@ -7,9 +7,9 @@
 [Download Here](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)
 
 # Installation
-- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder.
+- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder
 
-- Then enable texture replacement by heading to `settings>tools>developer tools>replace textures` and select it.
+- Then enable texture replacement by heading to `settings>tools>developer tools>replace textures`
   
 Screenshots
 ======  
@@ -24,9 +24,10 @@ Screenshots
 > HD HDR Sword Skills
 
 ![bold](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fad336a9-8f3e-419d-84e7-92dc30b44b32)
+![shadow](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/a6064896-fe95-4351-88bc-7054d6aadd4b)
 
-> Comparison
-
+Comparison
+======  
 ![compare](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/2f887cee-9103-40d9-a81d-6f812f74c718)
 
 # Version List
