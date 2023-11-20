@@ -7,6 +7,12 @@
 
 Download Here
 
+
+# Installation
+- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder.
+
+- Then enable texture replacement by heading to settings> tools> developer tools> replace textures.
+  
 Screenshots
 ======  
 > World Map
@@ -17,6 +23,10 @@ Screenshots
 
 ![formation_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/ec2ead94-7fde-459d-8c4a-b6083f6021b4)
 
+> HD HDR Sword Skills
+
+![bold](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fad336a9-8f3e-419d-84e7-92dc30b44b32)
+
 # Version List
 
 ### `v1.0`
@@ -24,13 +34,6 @@ Screenshots
   - There are also adjustments made to make the stages appear more vibrant.
 - Mob sprites are collected into respective folders. (This is for future-proofing)
 
-# Installation
-In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag the contents of the .zip into the folder.
-
-Then enable texture replacement by heading to settings> tools> developer tools> replace textures.
-
-**Note:**  
-- Do **NOT** accidentally enable texture saving.
   
 # Up Coming
 - [ ] Further cleaning
