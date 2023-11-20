@@ -52,6 +52,9 @@ You must use the lastest stable PPSSPP build
 
 # Version List
 
+### `v1.1`
+- Added intial support for US copies of the game.
+
 ### `v1.0`
 - ~80% of all UI Elements have been altered.  
   - The new textures where created from a variety of sources: mobile port, redrawn by hand, redrawn by AI, or upscaled by AI.
