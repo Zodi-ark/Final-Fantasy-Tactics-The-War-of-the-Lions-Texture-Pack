@@ -30,14 +30,10 @@ Then enable texture replacement by heading to settings> tools> developer tools> 
 - Do **NOT** accidentally enable texture saving.
   
 # Up Coming
-- [ ] Stage textures
-- [ ] Generic effects  
-    *(i.e. Auras, Rage)*
-- [ ] Character-specific effects
-- [ ] UI elements  
-- [ ] Fonts
-- [ ] Character textures
-- [ ] Mob sprites replacement  
-    *(Due to how tricky this is, this will be low-priority for now)*
-- [ ] Support for other regions
-- [ ] Optimization for mobile screens
+- [ ] Further cleaning
+- [ ] HD HDR summons
+- [ ] HD HDR cut scene maps
+    *(If this clashes too hard with sprites I won't)*
+- [ ] Improved battle pointer
+- [ ] Community suggestions/contributions
+
