@@ -55,12 +55,14 @@ Comparison
 
 # Changing from Euro to US
 
--Changed the folders name from `ULES00850` to `ULUS10297`
+Changed the folders name from `ULES00850` to `ULUS10297`
 
 # Know Issues
 
 -Win condition overlay sometimes not displaying new texture
+
 -Chapter titles not displaying new texture
+
 -Texture pack for ULUS10297- US region not tested (won't be surprised if theres bugs)
 
 # Up Coming
