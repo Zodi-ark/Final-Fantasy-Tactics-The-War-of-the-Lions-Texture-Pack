@@ -14,7 +14,7 @@ USA-NTSC users please read installation!
 
 - If you don't know if the copy is a USA or Europe version right click it or on mobile long press it. Then look at the bottom left.
 
-- Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`
+- Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
 
 Screenshots
 ======  
