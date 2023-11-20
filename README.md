@@ -9,7 +9,7 @@
 # Installation
 - In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder.
 
-- Then enable texture replacement by heading to `settings> tools> developer tools> replace textures` and select it.
+- Then enable texture replacement by heading to `settings>tools>developer tools>replace textures` and select it.
   
 Screenshots
 ======  
