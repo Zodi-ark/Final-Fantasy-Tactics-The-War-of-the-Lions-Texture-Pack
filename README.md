@@ -50,9 +50,6 @@ Comparison
 - Most sword skills have been given an HDR makeover.
 - At this point too much to list or even remember.
 
-### `v1.0`
-- ~90% of all UI Elements have been altered.
-
 # Changing from Euro to US
 
 Changed the folders name from `ULES00850` to `ULUS10297`
