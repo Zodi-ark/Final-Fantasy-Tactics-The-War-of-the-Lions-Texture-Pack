@@ -5,15 +5,17 @@
 <br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>
 
 EURO-PAL [Download Here](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases).
-US-NTSC users please read installation!
+USA-NTSC users please read installation!
 
 # Installation
-- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder
+- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag `ULES00850` from the .zip into the folder
 
-- Then enable texture replacement by heading to `settings>tools>developer tools>replace textures`
+- For US users change the folder name from `ULES00850` to `ULUS10297`
 
-- For US-NTSC users change the folder name from `ULES00850` to `ULUS10297`
-  
+- If you don't know if the copy is a USA or Europe version right click it or on mobile long press it. Then look at the bottom left.
+
+- Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`
+
 Screenshots
 ======  
 > World Map
@@ -46,9 +48,9 @@ Comparison
 ![compare](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/2f887cee-9103-40d9-a81d-6f812f74c718)
 
 # Requirements
-You must use the lastest stable PPSSPP build
+You must use the lastest stable PPSSPP build.
 
-`settings>graphics>render resolution` must be set at 4x or above
+`settings>graphics>render resolution` must be set at 4x or above.
 
 # Version List
 
@@ -63,9 +65,9 @@ You must use the lastest stable PPSSPP build
 
 # Know Issues
 
--Win condition overlay sometimes does not display new texture
+-Win condition overlay sometimes does not display new texture.
 
--Texture pack for ULUS10297- US region semi tested
+-Texture pack for ULUS10297- US region semi tested.
 
 # Up Coming
 - [ ] Further cleaning
