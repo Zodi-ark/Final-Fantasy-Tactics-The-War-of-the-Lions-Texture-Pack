@@ -34,6 +34,7 @@ Screenshots
 
 # Installation
 In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag the contents of the .zip into the folder.
+
 Then enable texture replacement by heading to settings> tools> developer tools> replace textures.
 
 **Note:**  
