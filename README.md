@@ -30,6 +30,7 @@ Screenshots
 ![ULES00850_00004](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/16b3ca74-fb59-4bb3-948f-93d759ae0b92)
 
 > Party Menu
+
 ![formation_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/ec2ead94-7fde-459d-8c4a-b6083f6021b4)
 
 # Installation
