@@ -1,12 +1,10 @@
 # Final Fantasy Tactics: The War of the Lions Texture Pack
 ![title](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/assets/113886368/e15d138e-3c0b-4060-80f2-e21008484987)
 
- 	
 <p>A Faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites. 
 <br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>
 
-Download Here
-
+[Download Here](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)
 
 # Installation
 - In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder.
