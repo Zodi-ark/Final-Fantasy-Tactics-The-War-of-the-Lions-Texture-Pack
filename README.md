@@ -26,6 +26,10 @@ Screenshots
 ![bold](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fad336a9-8f3e-419d-84e7-92dc30b44b32)
 ![shadow](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/a6064896-fe95-4351-88bc-7054d6aadd4b)
 
+> Stats Menu
+
+![stats_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fa39253d-068e-43a1-af7f-fc4780ca08ca)
+
 Comparison
 ======  
 ![compare](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/2f887cee-9103-40d9-a81d-6f812f74c718)
