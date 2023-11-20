@@ -10,18 +10,6 @@ A PPSSPP texture pack that focuses on UI elements.
   - There are also adjustments made to make the stages appear more vibrant.
 - Mob sprites are collected into respective folders. (This is for future-proofing)
 
-# To-Do List
-- [x] Stage textures
-- [x] Generic effects  
-    *(i.e. Auras, Rage)*
-- [x] Character-specific effects
-- [x] UI elements  
-- [ ] Fonts
-- [ ] Character textures
-- [ ] Mob sprites replacement  
-    *(Due to how tricky this is, this will be low-priority for now)*
-- [ ] Support for other regions
-- [ ] Optimization for mobile screens
 
 Screenshots
 ======  
@@ -40,3 +28,16 @@ Then enable texture replacement by heading to settings> tools> developer tools> 
 
 **Note:**  
 - Do **NOT** accidentally enable texture saving.
+  
+# Up Coming
+- [ ] Stage textures
+- [ ] Generic effects  
+    *(i.e. Auras, Rage)*
+- [ ] Character-specific effects
+- [ ] UI elements  
+- [ ] Fonts
+- [ ] Character textures
+- [ ] Mob sprites replacement  
+    *(Due to how tricky this is, this will be low-priority for now)*
+- [ ] Support for other regions
+- [ ] Optimization for mobile screens
