@@ -66,7 +66,7 @@ You must use the lastest stable PPSSPP build.
 
 ### `v1.0`
 - ~80% of all UI Elements have been altered.  
-  - The new textures where created from a variety of sources: mobile port, redrawn by hand, redrawn by AI, or upscaled by AI.
+  - The new textures where created from a variety of sources: mobile port, community artwork, redrawn by hand, redrawn by AI, or upscaled by AI.
 - Most sword skills have been given an HDR makeover.
 - At this point too much to list or even remember.
 
