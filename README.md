@@ -3,6 +3,10 @@
 
 A Faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites.
 
+Community contributions, edits, address hashes, and forks are strongly encouraged!
+
+Download Here
+
 # Version List
 
 ### `v1.0`
