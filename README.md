@@ -26,7 +26,7 @@ Screenshots
 ![bold](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fad336a9-8f3e-419d-84e7-92dc30b44b32)
 ![shadow](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/a6064896-fe95-4351-88bc-7054d6aadd4b)
 
-> Status - Height Counter
+> Status Icons - Height Counter
 
 ![icons](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/e4ddc279-4733-4393-9dde-b1570494923c)
 
