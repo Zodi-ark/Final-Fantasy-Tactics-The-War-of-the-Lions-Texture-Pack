@@ -26,13 +26,17 @@ Screenshots
 ![bold](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fad336a9-8f3e-419d-84e7-92dc30b44b32)
 ![shadow](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/a6064896-fe95-4351-88bc-7054d6aadd4b)
 
-> Stats Menu
+> Status - Height Counter
 
-![stats_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fa39253d-068e-43a1-af7f-fc4780ca08ca)
+![icons](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/e4ddc279-4733-4393-9dde-b1570494923c)
 
 > Damage Counter
 
 ![damage_counter](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/96d7188a-e261-46e9-ad3f-1703c3fb1fe7)
+
+> Stats Menu
+
+![stats_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fa39253d-068e-43a1-af7f-fc4780ca08ca)
 
 Comparison
 ======  
@@ -41,11 +45,11 @@ Comparison
 # Version List
 
 ### `v1.0`
-- All stages now feature higher-quality textures.  
-  - There are also adjustments made to make the stages appear more vibrant.
-- Mob sprites are collected into respective folders. (This is for future-proofing)
+- ~90% of all UI Elements have been altered.  
+  - The new textures where created from a variety of sources: mobile port, redrawn by hand, redrawn by AI, or upscaled by AI.
+- Most sword skills have been given an HDR makeover.
+- At this point too much to list or even remember.
 
-  
 # Up Coming
 - [ ] Further cleaning
 - [ ] HD HDR summons
