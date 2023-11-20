@@ -4,7 +4,7 @@
 <p>A Faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites. 
 <br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>
 
-[Download Here](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)
+PAL [Download Here](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)
 
 # Installation
 - In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder
@@ -50,7 +50,7 @@ Comparison
 - Most sword skills have been given an HDR makeover.
 - At this point too much to list or even remember.
 
-# Changing from Euro to US
+# Changing from Euro to US (Experimental)
 
 Changed the folders name from `ULES00850` to `ULUS10297`
 
