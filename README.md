@@ -7,7 +7,7 @@
 EURO-PAL [Download Here](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases).
 USA-NTSC users please read installation!
 
-# Installation
+# Installation Manual (US Version)
 - In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag `ULES00850` from the .zip into the folder
 
 - For USA users change the folder name from `ULES00850` to `ULUS10297`
@@ -15,6 +15,13 @@ USA-NTSC users please read installation!
 - If you don't know if the copy is a USA or Europe version right click it or on mobile long press it. Then look at the bottom left.
 
 - Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
+
+# Installation Automatic (Europe Version Only)
+-Open the zip file within PPSSPP as if it is a game
+
+-It will automatically place all the files in the correct location for you.
+
+-Enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
 
 Screenshots
 ======  
