@@ -9,7 +9,7 @@
 # Installation
 - In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag ULES00850 from the .zip into the folder.
 
-- Then enable texture replacement by heading to settings> tools> developer tools> replace textures.
+- Then enable texture replacement by heading to `settings> tools> developer tools> replace textures` and select it.
   
 Screenshots
 ======  
@@ -24,6 +24,10 @@ Screenshots
 > HD HDR Sword Skills
 
 ![bold](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fad336a9-8f3e-419d-84e7-92dc30b44b32)
+
+> Comparison
+
+![compare](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/2f887cee-9103-40d9-a81d-6f812f74c718)
 
 # Version List
 
