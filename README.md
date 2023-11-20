@@ -77,6 +77,7 @@ You must use the lastest stable PPSSPP build.
 -Texture pack for ULUS10297- US region semi tested.
 
 # Up Coming
+- [ ] Dev build with raw pngs for the community to edit
 - [ ] Further cleaning
 - [ ] HD HDR summons
 - [ ] HD HDR cut scene maps
