@@ -50,6 +50,19 @@ Comparison
 - Most sword skills have been given an HDR makeover.
 - At this point too much to list or even remember.
 
+### `v1.0`
+- ~90% of all UI Elements have been altered.
+
+# Changing from Euro to US
+
+-Changed the folders name from `ULES00850` to `ULUS10297`
+
+# Know Issues
+
+-Win condition overlay sometimes not displaying new texture
+-Chapter titles not displaying new texture
+-Texture pack for ULUS10297- US region not tested (won't be surprised if theres bugs)
+
 # Up Coming
 - [ ] Further cleaning
 - [ ] HD HDR summons
