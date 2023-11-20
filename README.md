@@ -10,7 +10,7 @@ USA-NTSC users please read installation!
 # Installation
 - In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag `ULES00850` from the .zip into the folder
 
-- For US users change the folder name from `ULES00850` to `ULUS10297`
+- For USA users change the folder name from `ULES00850` to `ULUS10297`
 
 - If you don't know if the copy is a USA or Europe version right click it or on mobile long press it. Then look at the bottom left.
 
