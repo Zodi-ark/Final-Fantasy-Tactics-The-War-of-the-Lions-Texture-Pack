@@ -84,6 +84,8 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 -Win condition overlay sometimes does not display new texture.
 
+-In dungeons that do not return to world map, save menu time text does not display.
+
 -Texture pack for ULUS10297- US region semi tested.
 
 # Up Coming
