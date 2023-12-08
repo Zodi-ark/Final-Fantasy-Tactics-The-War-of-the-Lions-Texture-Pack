@@ -50,6 +50,10 @@ Screenshots
 
 ![stats_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fa39253d-068e-43a1-af7f-fc4780ca08ca)
 
+> Summons
+
+![HD_HDR_Summons](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/82e063f2-1b40-4393-ac21-ffe5728550b6)
+
 Comparison
 ======  
 ![compare](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/2f887cee-9103-40d9-a81d-6f812f74c718)
@@ -60,6 +64,12 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 `Settings>graphics>render resolution` must be set at 4x or above.
 
 # Version List
+
+### `v1.2`
+- Added summons.
+- Added multiplayer team ui.
+- Improved aliasing on world map text.
+- Fixed intro card vignette.
 
 ### `v1.1`
 - Added intial support for US copies of the game.
@@ -77,9 +87,9 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 -Texture pack for ULUS10297- US region semi tested.
 
 # Up Coming
+- [x] HD HDR summons
 - [ ] Dev build with raw pngs for the community to edit
 - [ ] Further cleaning
-- [ ] HD HDR summons
 - [ ] HD HDR cut scene maps
     *(If this clashes too hard with sprites I won't)*
 - [ ] Improved battle pointer
