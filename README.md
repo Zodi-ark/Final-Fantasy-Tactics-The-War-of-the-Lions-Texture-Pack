@@ -90,8 +90,8 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 # Up Coming
 - [x] HD HDR summons
+- [x] Further texture cleaning
 - [ ] Dev build with raw pngs for the community to edit
-- [ ] Further cleaning
 - [ ] HD HDR cut scene maps
     *(If this clashes too hard with sprites I won't)*
 - [ ] Improved battle pointer
