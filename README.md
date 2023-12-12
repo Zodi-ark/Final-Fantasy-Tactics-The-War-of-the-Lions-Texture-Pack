@@ -48,7 +48,7 @@ Screenshots
 
 > Stats Menu
 
-![stats_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fa39253d-068e-43a1-af7f-fc4780ca08ca)
+![mobilegear](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/666efa19-8c55-4159-bcd0-898d17e3d3fe)
 
 > Summons
 
