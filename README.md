@@ -31,7 +31,7 @@ Screenshots
 
 > Party Menu
 
-![formation_correct](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/ec2ead94-7fde-459d-8c4a-b6083f6021b4)
+![pm](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/65d5d16e-7963-414f-96aa-42319cadc7a4)
 
 > HD HDR Sword Skills
 
