@@ -65,6 +65,14 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 # Version List
 
+### `v1.3`
+- Added updated mobile port equipment and item sprites.
+- Added updated mobile port human + chocobo sprites (party menu only).
+- Added updated mobile port human + chocobo portraits (party menu only).
+- Added extensively more various UI elements.
+- Massive texture cleaning pass.
+- General bug fixes.
+
 ### `v1.2`
 - Added summons.
 - Added multiplayer team ui.
