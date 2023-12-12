@@ -56,7 +56,7 @@ Screenshots
 
 Comparison
 ======  
-![compare](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/2f887cee-9103-40d9-a81d-6f812f74c718)
+![compare2](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/e8f1ffd4-77b4-43f7-96e2-6a01c4d32483)
 
 # Requirements
 You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
