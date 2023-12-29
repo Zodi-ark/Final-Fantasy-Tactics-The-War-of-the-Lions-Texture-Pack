@@ -88,7 +88,7 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 - Most sword skills have been given an HDR makeover.
 - At this point too much to list or even remember.
 
-# Know Issues
+# Known Issues
 
 -Win condition overlay sometimes does not display new texture.
 
