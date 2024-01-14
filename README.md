@@ -65,6 +65,10 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 # Version List
 
+### `v1.4`
+- Added multiplayer UI.
+- General bug fixes.
+
 ### `v1.3`
 - Added updated mobile port equipment and item sprites.
 - Added updated mobile port human + monster sprites. (party menu only)
@@ -75,12 +79,12 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 ### `v1.2`
 - Added summons.
-- Added multiplayer team ui.
+- Added multiplayer team blue and red ui.
 - Improved aliasing on world map text.
 - Fixed intro card vignette.
 
 ### `v1.1`
-- Added intial support for US copies of the game.
+- Added intial support for US and modded copies of of the game.
 
 ### `v1.0`
 - ~80% of all UI Elements have been altered.  
@@ -95,6 +99,8 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 -In dungeons that do not return to world map, save menu time text does not display.
 
 -Texture pack for ULUS10297- US region semi tested.
+
+-Multiplayer melee mode defeat/win UI just does not exist when capturing textures.
 
 # Up Coming
 - [x] HD HDR summons
