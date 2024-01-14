@@ -67,6 +67,7 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 ### `v1.4`
 - Added multiplayer UI.
+- Minor cleaning pass.
 - General bug fixes.
 
 ### `v1.3`
