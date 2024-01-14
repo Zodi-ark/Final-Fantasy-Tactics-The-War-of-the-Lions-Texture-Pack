@@ -100,7 +100,7 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 -Texture pack for ULUS10297- US region semi tested.
 
--Multiplayer melee mode defeat/win UI just does not exist when capturing textures.
+-Multiplayer melee mode defeat/win UI does not exist when capturing textures.
 
 # Up Coming
 - [x] HD HDR summons
