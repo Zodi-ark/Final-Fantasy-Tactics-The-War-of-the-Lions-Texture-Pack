@@ -85,7 +85,7 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 - Fixed intro card vignette.
 
 ### `v1.1`
-- Added intial support for US and modded copies of of the game.
+- Added intial support for US and modded copies of the game.
 
 ### `v1.0`
 - ~80% of all UI Elements have been altered.  
