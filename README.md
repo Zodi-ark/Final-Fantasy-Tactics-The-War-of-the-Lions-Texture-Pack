@@ -54,6 +54,10 @@ Screenshots
 
 ![HD_HDR_Summons](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/82e063f2-1b40-4393-ac21-ffe5728550b6)
 
+> Original Map (Optional)
+
+![classic_map_option](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/1c645533-c9b3-4f15-8b64-44b44342af2b)
+
 Comparison
 ======  
 ![compare2](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/376de783-8bff-4f49-9b9e-dd8dedfac059)
@@ -67,6 +71,7 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 ### `v1.4`
 - Added multiplayer UI.
+- Added original map option.
 - Minor cleaning pass.
 - General bug fixes.
 
