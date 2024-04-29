@@ -8,7 +8,7 @@ EURO-PAL [DOWNLOAD HERE](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-W
 USA-NTSC users please read installation!
 
 # Manual Installation (USA Version)
-- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then drag `ULES00850` from the .zip into the folder
+- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then from the .zip drag the `ULES00850` folder into your textures folder
 
 - For USA users change the folder name from `ULES00850` to `ULUS10297`
 
