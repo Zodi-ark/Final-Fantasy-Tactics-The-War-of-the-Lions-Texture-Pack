@@ -1,27 +1,35 @@
 # Final Fantasy Tactics: The War of the Lions Texture Pack
 ![title](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/da106dab-3490-4ed2-9c39-a315f25b2f98)
 
-<p>A faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites. 
-<br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>
+*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites. 
+<br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>*
 
-EURO-PAL [DOWNLOAD HERE](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases).
-USA-NTSC users please read installation!
+[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)
 
-# Manual Installation (USA Version)
-- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES` then from the downloaded .zip find and drag the `ULES00850` folder into your textures folder.
 
-- For USA users change the folder name from `ULES00850` to `ULUS10297`.
-
-- If you don't know if the copy is a USA or Europe version right click it or on mobile long press it. Then look at the bottom left.
-
-- Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
-
-# Automatic Installation (Europe Version Only)
+# Automatic Installation
 - Open the zip file within PPSSPP as if it were a game.
 
 - It will automatically place all the files in the correct location for you.
 
 - Enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
+
+*Please note using this method will prioritize your last opened ISO region. So if you have multiple copies of FFT from different regions open the version that you would like the texture pack to be applied to before installing. If you have never opened FFT in your PPSSPP it will default to a EUROPE install.*
+
+# Manual Installation
+- In your PPSSPP directory, navigate to `memstick/PSP/TEXTURES`.
+
+- Create a new folder. Your FFT's region will determine the folder's name.
+
+- If you don't know if the copy is a USA or EUROPE version right-click it or on mobile long press it. Then look at the bottom left.
+
+- Name the folder for EUROPE - `ULES00850` or name the folder for USA - `ULUS10297`.
+
+- Then open the downloaded .zip file and then open the first folder inside.
+
+- Move all the contents (worldmap, title, party, etc.) into your newly renamed folder.
+
+- Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
 
 Screenshots
 ======  
