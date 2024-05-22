@@ -1,10 +1,10 @@
 # Final Fantasy Tactics: The War of the Lions Texture Pack
 ![title](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/da106dab-3490-4ed2-9c39-a315f25b2f98)
 
-*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites. 
-<br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>*
+__*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites. 
+<br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>*__
 
-[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)
+__[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
 
 
 # Automatic Installation
