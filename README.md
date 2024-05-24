@@ -35,15 +35,6 @@ __[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fan
 
 - Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
  
-Update 1.5 Sneak Peek
-======  
-
-<div align="center">
-
-![goodbye](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/92eab509-b886-458f-a18f-7a9940fe2c01)
-
-</div>
-
 Screenshots
 ======  
 > World Map
@@ -88,6 +79,15 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 `Settings>graphics>render resolution` must be set at 4x or above. (Recommend 6x)
 
+Update 1.5 Sneak Peek
+======  
+
+<div align="center">
+
+![goodbye](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/92eab509-b886-458f-a18f-7a9940fe2c01)
+
+</div>
+
 # Version List
 
 ### `v1.4`
@@ -119,14 +119,6 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 - Most sword skills have been given an HDR makeover.
 - At this point too much to list or even remember.
 
-# Known Issues
-
--Win condition overlay sometimes does not display new texture.
-
--In dungeons that do not return to world map, save menu time text does not display.
-
--Texture pack for ULUS10297- US region semi tested.
-
 # Up Coming
 - [x] HD HDR summons
 - [x] Further texture cleaning
@@ -136,3 +128,10 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 - [ ] Dev build with raw pngs for the community to edit
 - [ ] Improved battle pointer
 
+# Known Issues
+
+-Win condition overlay sometimes does not display new texture.
+
+-In dungeons that do not return to world map, save menu time text does not display.
+
+-Texture pack for ULUS10297- US region semi tested.
