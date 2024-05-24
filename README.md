@@ -34,6 +34,15 @@ __[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fan
 - Move all the contents (worldmap, title, party, etc.) into your newly renamed folder.
 
 - Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
+ 
+1.5 Update Sneak Peek
+======  
+
+<div align="center">
+
+![goodbye](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/92eab509-b886-458f-a18f-7a9940fe2c01)
+
+</div>
 
 Screenshots
 ======  
@@ -121,9 +130,9 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 # Up Coming
 - [x] HD HDR summons
 - [x] Further texture cleaning
-- [ ] Dev build with raw pngs for the community to edit
+- [x] Community suggestions/contributions
 - [ ] HD HDR cut scene maps
     *(If this clashes too hard with sprites I won't)*
+- [ ] Dev build with raw pngs for the community to edit
 - [ ] Improved battle pointer
-- [ ] Community suggestions/contributions
 
