@@ -4,7 +4,11 @@
 __*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects without compromising the original sprites. 
 <br>Community contributions, edits, address hashes, and forks are strongly encouraged!</p>*__
 
+<div align="center">
+  
 __[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
+
+</div>
 
 
 # Automatic Installation
