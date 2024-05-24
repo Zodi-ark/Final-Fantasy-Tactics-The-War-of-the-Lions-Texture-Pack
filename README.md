@@ -35,7 +35,7 @@ __[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fan
 
 - Finally enable texture replacement by heading to `settings>tools>developer tools>replace textures`.
  
-1.5 Update Sneak Peek
+Update 1.5 Sneak Peek
 ======  
 
 <div align="center">
