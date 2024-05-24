@@ -77,7 +77,7 @@ Comparison
 # Requirements
 You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
-`Settings>graphics>render resolution` must be set at 4x or above. (Recommend 6x)
+PPSSPP `Settings>graphics>render resolution` must be set at 4x or above. (Recommend 6x)
 
 Update 1.5 Sneak Peek
 ======  
