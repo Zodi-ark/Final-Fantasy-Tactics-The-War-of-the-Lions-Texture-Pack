@@ -58,13 +58,17 @@ Screenshots
 
 ![damage_counter](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/96d7188a-e261-46e9-ad3f-1703c3fb1fe7)
 
-> Stats Menu
-
-![mobilegear](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/666efa19-8c55-4159-bcd0-898d17e3d3fe)
-
 > Summons
 
 ![HD_HDR_Summons](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/82e063f2-1b40-4393-ac21-ffe5728550b6)
+
+> HD HDR Map Textures (Event Dedicated Maps Only)
+
+![water-optimize](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/097b392f-a741-4c54-98ae-1335a19a4fa4)
+
+> Stats Menu
+
+![mobilegear](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/666efa19-8c55-4159-bcd0-898d17e3d3fe)
 
 > Original Map (Optional)
 
@@ -79,7 +83,7 @@ You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
 
 PPSSPP `Settings>graphics>render resolution` must be set at 4x or above. (Recommend 6x)
 
-Update 1.5 Sneak Peek
+HD HDR Map Textures + Upscale + Reshade
 ======  
 
 <div align="center">
@@ -90,13 +94,23 @@ Update 1.5 Sneak Peek
 
 # Version List
 
-### `v1.4`
+### `v1.5 | "The Pretty Colors Update"`
+- Added HD HDR map textures to event dedicated maps.
+- Added 'lite' branch without HD HDR map textures.
+- Added mobile portraits to event dedicated maps.
+- Added HD HDR chapter end graphics.
+- Added artifacts.
+- Added wonders.
+- General bug fixes.
+
+### `v1.4 | "So, The Hour Is Come..."`
 - Added multiplayer UI.
 - Added original map option.
 - Minor cleaning pass.
 - General bug fixes.
+- USA install fix.
 
-### `v1.3`
+### `v1.3 | "Reunion"`
 - Added updated mobile port equipment and item sprites.
 - Added updated mobile port human + monster sprites. (party menu only)
 - Added updated mobile port human + monster portraits. (party menu only)
@@ -104,27 +118,27 @@ Update 1.5 Sneak Peek
 - Massive texture cleaning pass.
 - General bug fixes.
 
-### `v1.2`
+### `v1.2 | "Zodiark"`
 - Added summons.
 - Added multiplayer team blue and red ui.
 - Improved aliasing on world map text.
 - Fixed intro card vignette.
 
-### `v1.1`
+### `v1.1 | "Ivalice to Ordallia"`
 - Added intial support for US and modded copies of the game.
 
-### `v1.0`
+### `v1.0 | "Noble Endeavors"`
 - ~80% of all UI Elements have been altered.  
   - The new textures where created from a variety of sources: mobile port, community artwork, redrawn by hand, redrawn by AI, or upscaled by AI.
-- Most sword skills have been given an HDR makeover.
+- Most sword skills have been given an HD HDR makeover.
 - At this point too much to list or even remember.
 
 # Up Coming
 - [x] HD HDR summons
 - [x] Further texture cleaning
 - [x] Community suggestions/contributions
-- [ ] HD HDR cut scene maps
-    *(If this clashes too hard with sprites I won't)*
+- [x] HD HDR cut scene maps
+- [ ] Add remastered portraits to in-game battles
 - [ ] Dev build with raw pngs for the community to edit
 - [ ] Improved battle pointer
 
@@ -133,5 +147,7 @@ Update 1.5 Sneak Peek
 -Win condition overlay sometimes does not display new texture.
 
 -In dungeons that do not return to world map, save menu time text does not display.
+
+-Dirty UI textures when reading the Scriptures of Germonique or Japan exclusives.
 
 -Texture pack for ULUS10297- US region semi tested.
