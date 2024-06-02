@@ -96,7 +96,7 @@ HD HDR Map Textures + Upscale + Reshade
 
 ### `v1.5 | "The Pretty Colors Update"`
 - Added HD HDR map textures to event dedicated maps.
-- Added 'lite' branch without HD HDR map textures.
+- Created 'lite' branch with compressed map textures.
 - Added mobile portraits to event dedicated maps.
 - Added HD HDR chapter end graphics.
 - Added artifacts.
