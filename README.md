@@ -96,6 +96,13 @@ HD HDR Map Textures + Upscale + Reshade
 
 # Version List
 
+### `v1.6 | "Stand Still Please"`
+- Added portraits to formation.
+- Added portraits to in-game battles.
+- Added portraits to chronicles personae.
+- Added monster sprites and some generic units to formation.
+- General bug fixes.
+
 ### `v1.5 | "The Pretty Colors Update"`
 - Added HD HDR map textures to event dedicated maps.
 - Created 'lite' branch with compressed map textures.
