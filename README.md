@@ -6,7 +6,9 @@ __*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects wit
 
 <div align="center">
   
-__[DOWNLOAD THE MOST RECENT VERSION HERE!](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
+__[DOWNLOAD THE MOST RECENT VERSION (5.42 GB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
+
+__[DOWNLOAD THE MOST RECENT LITE VERSION (855 MB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases/tag/v1.5-lite)__
 
 </div>
 
@@ -93,6 +95,13 @@ HD HDR Map Textures + Upscale + Reshade
 </div>
 
 # Version List
+
+### `v1.6 | "Stand Still Please"`
+- Added portraits to formation.
+- Added portraits to in-game battles.
+- Added portraits to chronicles personae.
+- Added monster sprites and some generic units to formation.
+- General bug fixes.
 
 ### `v1.5 | "The Pretty Colors Update"`
 - Added HD HDR map textures to event dedicated maps.
