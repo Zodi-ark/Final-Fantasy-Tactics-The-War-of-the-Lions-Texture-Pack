@@ -1,0 +1,2 @@
+Open the pick a color folder and pick a color
+Theen take all the contents from that color and paste it and overwrite into the tile_blue folder
