@@ -150,7 +150,7 @@ HD HDR Map Textures + Upscale + Reshade
 - [x] Further texture cleaning
 - [x] Community suggestions/contributions
 - [x] HD HDR cut scene maps
-- [ ] Add remastered portraits to in-game battles
+- [x] Add remastered portraits to in-game battles
 - [ ] Dev build with raw pngs for the community to edit
 - [ ] Improved battle pointer
 
