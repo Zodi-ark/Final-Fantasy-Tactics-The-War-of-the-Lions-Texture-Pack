@@ -6,7 +6,7 @@ __*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects wit
 
 <div align="center">
   
-__[DOWNLOAD THE MOST RECENT VERSION (6.08 GB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
+__[DOWNLOAD THE MOST RECENT VERSION (2.5 GB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
 
 __[DOWNLOAD THE MOST RECENT LITE VERSION (921 MB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases/tag/v1.6-lite)__
 
@@ -101,6 +101,11 @@ HD HDR Map Textures + Upscale + Reshade
 - Added portraits to in-game battles.
 - Added portraits to chronicles personae.
 - Added monster sprites and some generic units to formation.
+- Added HDR map files for the final dungeon (Orbonne 4th Floor to Airship Graveyard).
+- Added blue and red move tiles.
+- Added optional white move tiles.
+- Added unit and pointer shadow.
+- Optimized map files (58% total file size reduction).
 - General bug fixes.
 
 ### `v1.5 | "The Pretty Colors Update"`
