@@ -1,0 +1,3 @@
+Open the pick a color folder and pick a color.
+Then take all the contents from that color folder and paste it and overwrite into the tile_blue folder.
+Feel free to also make your own colors!
