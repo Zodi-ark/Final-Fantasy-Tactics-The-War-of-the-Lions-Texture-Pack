@@ -6,7 +6,7 @@ __*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects wit
 
 <div align="center">
   
-__[DOWNLOAD THE MOST RECENT VERSION (2.5 GB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
+__[DOWNLOAD THE MOST RECENT VERSION (2.59 GB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
 
 </div>
 
