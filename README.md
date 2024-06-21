@@ -6,7 +6,7 @@ __*<p>A faithful PPSSPP texture pack that focuses on UI elements and effects wit
 
 <div align="center">
   
-__[DOWNLOAD THE MOST RECENT VERSION (2.5 GB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
+__[DOWNLOAD THE MOST RECENT VERSION (2.59 GB)](https://github.com/Zodi-ark/Final-Fantasy-Tactics-The-War-of-the-Lions-Texture-Pack/releases)__
 
 </div>
 
@@ -65,6 +65,7 @@ Screenshots
 > HD HDR Map Textures (Event Dedicated Maps Only)
 
 ![water-optimize](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/097b392f-a741-4c54-98ae-1335a19a4fa4)
+![aerith](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/fb410316-080b-4ffb-a61b-4a21df8901a6)
 
 > Stats Menu
 
