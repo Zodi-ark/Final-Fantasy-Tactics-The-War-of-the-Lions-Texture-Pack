@@ -10,6 +10,11 @@ __[DOWNLOAD THE MOST RECENT VERSION (2.59 GB)](https://github.com/Zodi-ark/Final
 
 </div>
 
+# Requirements
+You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
+
+PPSSPP `Settings>graphics>render resolution` must be set at 4x or above. (Recommend 6x)
+
 
 # Automatic Installation
 - Open the zip file within PPSSPP as if it were a game.
@@ -78,11 +83,6 @@ Screenshots
 Comparison
 ======  
 ![compare2](https://github.com/Zodi-ark/in-memory-of-imgur-sucks/assets/113886368/376de783-8bff-4f49-9b9e-dd8dedfac059)
-
-# Requirements
-You must use the lastest stable [PPSSPP](https://www.ppsspp.org/download) build.
-
-PPSSPP `Settings>graphics>render resolution` must be set at 4x or above. (Recommend 6x)
 
 HD HDR Map Textures + Upscale + Reshade
 ======  
